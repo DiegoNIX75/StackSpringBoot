@@ -1,4 +1,4 @@
-# Pila con Spring Boot
+# Pila + Queue con Spring Boot
 
 Práctica de Estructuras de Datos: usar la pila (`Stack`) que ya viene en Java dentro de una API sencilla hecha con Spring Boot.
 
